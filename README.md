@@ -17,8 +17,6 @@ I'm interested in the following questions:
 
 **1. Which technologies are the most popular and widely used?**
 
-- Are there differences depending on the region?
-- Are there differences based on the experience of developers or developer groups?
 - Which technologies are currently being used the most, and which ones would the participants like to work with in the future?
 
 **2. Which technologies currently offer the highest salaries?**
