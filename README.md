@@ -4,10 +4,6 @@ To run the code Python 3.x and the following libraries are needed:
 
 - pandas
 - matplotlib
-- seaborn
-- scikit-learn
-
-The used versions can be seen in the pyproject.toml file
 
 ## Project Motivation
 
@@ -23,6 +19,13 @@ I'm interested in the following questions:
 
 ## File Description
 
+There is a notebook here where the analysis is done.
+
 ## Results
 
+The main findings can are shown in the medium post here: 
+
 ## Licensing, Authors, Acknowledgements
+
+Must give credit for the data to Stack Overflow.
+The code ca be used as you would like.
