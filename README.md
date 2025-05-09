@@ -15,15 +15,11 @@ For this project I use the Stackoverflow Developer Survey Data from 2024. The da
 
 I'm interested in the following questions:
 
-**1. Which technologies are the most popular and widely used?**
+**1. Which languages are the most popular and widely used?**
 
-- Which technologies are currently being used the most, and which ones would the participants like to work with in the future?
+**2. Which languages currently offer the highest salaries?**
 
-**2. Which technologies currently offer the highest salaries?**
-
-- Are there differences depending on the country/region?
-
-**3. What developer profiles exist, and how do they differ from each other?**
+**3. What is the proportion of remote work and are there differences depending on the developer type**
 
 ## File Description
 
