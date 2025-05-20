@@ -19,11 +19,19 @@ I'm interested in the following questions:
 
 ## File Description
 
-There is a notebook here where the analysis is done.
+- stackoverflow.ipynb: Jupyter notebook with all code for analysing and visualizations.
+- README.md: Readme file with all relevant information and short overview of the project
+- pyproject.toml: file with all necessary dependencies which are needed to execute the code
 
 ## Results
 
-The main findings can are shown in the medium post here: [Unlocking 2024 Tech Trends: Insights from the Stackoverflow Developer Survey](https://medium.com/@dirk.hradecky/unlocking-2024-tech-trends-insights-from-the-stackoverflow-developer-survey-50ba5909e0d0)
+**Main Findings**
+
+- JavaScript, HTML/CSS, Python and SQL are the most used programming languages
+- Participants would like to use more Go and Rust in the future (both also offer a high salary over the average)
+- The amount of remote work depends highly on the developer type
+
+The main findings are shown in the medium post here: [Unlocking 2024 Tech Trends: Insights from the Stackoverflow Developer Survey](https://medium.com/@dirk.hradecky/unlocking-2024-tech-trends-insights-from-the-stackoverflow-developer-survey-50ba5909e0d0)
 
 ## Licensing, Authors, Acknowledgements
 
