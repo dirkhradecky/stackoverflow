@@ -23,7 +23,7 @@ There is a notebook here where the analysis is done.
 
 ## Results
 
-The main findings can are shown in the medium post here: 
+The main findings can are shown in the medium post here: [Unlocking 2024 Tech Trends: Insights from the Stackoverflow Developer Survey](https://medium.com/@dirk.hradecky/unlocking-2024-tech-trends-insights-from-the-stackoverflow-developer-survey-50ba5909e0d0)
 
 ## Licensing, Authors, Acknowledgements
 
